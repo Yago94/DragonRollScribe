@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1041144667478",
+    "project_id": "dragonrollscribe",
+    "storage_bucket": "dragonrollscribe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1041144667478:android:b313426f75243c627fcaf7",
+        "android_client_info": {
+          "package_name": "com.dragonrollscribe.drs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1041144667478-je6dkcratkvrohcej6u4oph52hqvaelq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIugBXzGwFjgpzcC4FigsMsojkdL7mMro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1041144667478-je6dkcratkvrohcej6u4oph52hqvaelq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
