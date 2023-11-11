@@ -19,5 +19,6 @@ class LoginActivity : AppCompatActivity() {
         supportFragmentManager.beginTransaction()
             .replace(binding.frame.id, LoginFragment())
             .commit()
+
     }
 }
